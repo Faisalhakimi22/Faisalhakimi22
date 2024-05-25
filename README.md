@@ -1,4 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?Faisalhakimi22=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me 👋
 
@@ -11,6 +10,8 @@ Currently, I'm actively involved in projects that leverage my knowledge of compu
 I'm always eager to learn and collaborate on fascinating problems in this rapidly evolving field.
 
 
-Social media: 📡
+## Social media: 📡
+
 Join me on Linkedin, where I share insights, victories, and even the occasional setback.
-www.linkedin.com/in/faisal-hakimi55 
+
+<a href="www.linkedin.com/in/faisal-hakimi55" target="_blank"> <i class="fab fa-linkedin"></i></a>
