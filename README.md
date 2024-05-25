@@ -14,4 +14,4 @@ I'm always eager to learn and collaborate on fascinating problems in this rapidl
 
 Join me on Linkedin, where I share insights, victories, and even the occasional setback.
 
-<a href="www.linkedin.com/in/faisal-hakimi55" target="_blank"> <i class="fab fa-linkedin"></i></a>
+[LinkedIn](www.linkedin.com/in/faisal-hakimi55) 
