@@ -161,7 +161,7 @@ me.say_hello()
       <td width="50%">
         <h3 align="center">📡 RIS Control Interface</h3>
         <div align="center">
-          <a href="https://github.com/Faisalhakimi22" target="_blank">
+          <a href="https://github.com/Faisalhakimi22/Market-Intelligence-Platform" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faisalhakimi22&repo=ris-control-interface&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="RIS Control Interface" />
           </a>
         </div>
