@@ -22,7 +22,7 @@
 
 > **"Optimizing the intersection of high-dimensional data and actionable intelligence."**
 
-I am a **Machine Learning Engineer** and **Computer Vision Researcher** dedicated to engineering robust AI systems. My work focuses on transitioning state-of-the-art models from research environments into low-latency, scalable production architectures. I specialize in **Bayesian Optimization**, **Edge AI Deployment**, and **Large Language Model (LLM)** orchestration.
+I am a **Machine Learning Engineer** and **Researcher** dedicated to engineering robust AI systems. My work focuses on transitioning state-of-the-art models from research environments into low-latency, scalable production architectures. I specialize in **Bayesian Optimization**, **Edge AI Deployment**, and **Large Language Model (LLM)** orchestration.
 
 Currently, I am architecting intelligent systems that solve non-trivial problems in financial modeling, industrial automation, and enterprise decision support.
 
