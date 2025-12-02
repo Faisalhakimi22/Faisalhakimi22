@@ -2,6 +2,8 @@
 
 <div align="center">
   <h1>
+    # Faisal Hakimi
+
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Faisal+Hakimi;AI+%26+ML+Engineer" alt="Faisal Hakimi - AI & ML Engineer" />
   </h1>
   
