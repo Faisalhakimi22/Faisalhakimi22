@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Systems+Architect;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Transforming+Complex+Data+into+Intelligence)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Systems+Architect; Computer+Vision+%7C+NLP+%7C+Deep+Learning ;Transforming+Complex+Data+into+Intelligence)](https://git.io/typing-svg)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faisal-hakimi55)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faisalh5556)
