@@ -2,261 +2,215 @@
 
 # Faisal Hakimi
 
-### AI & Machine Learning Engineer
+**AI/ML Engineer** • **Full-Stack Developer** • **Computer Science @ IM|Sciences**
 
-*Building intelligent systems at the intersection of Computer Vision, LLMs, and Production ML*
+[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/faisal-hakimi55)
+[![Medium](https://img.shields.io/badge/-Read-000000?style=for-the-badge&logo=medium)](https://medium.com/@faisalh5556)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:Faisalh5556@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Faisalhakimi22?tab=repositories)
 
-[![LinkedIn](https://img.shields.io/badge/-faisal--hakimi55-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/faisal-hakimi55)
-[![Medium](https://img.shields.io/badge/-@faisalh5556-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@faisalh5556)
-[![Email](https://img.shields.io/badge/-Faisalh5556@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Faisalh5556@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-View_Repositories-181717?style=flat&logo=github&logoColor=white)](https://github.com/Faisalhakimi22?tab=repositories)
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 </div>
 
----
+## 👋 About Me
 
-## 👨‍💻 About
+Building intelligent systems that solve real problems. I specialize in computer vision, LLMs, and production ML systems—with experience spanning AI education tools, quantitative finance, and enterprise applications.
 
-I'm a Computer Science student at IM|Sciences (CGPA: 3.61/4.0) with a focus on developing production-ready AI/ML systems. My work spans computer vision, large language models, and scalable ML infrastructure, with an emphasis on solving real-world problems through practical, deployable solutions.
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Faisal Hakimi"
+        self.education = "Computer Science @ IM|Sciences [CGPA: 3.61/4.0]"
+        self.focus = ["Computer Vision", "LLMs", "ML Systems", "Quant Finance"]
+        self.currently = "Building AI-powered education tools & open-source ML"
+```
 
-**What I'm Building:**
-- Production ML systems with measurable business impact
-- Edge-optimized computer vision models for resource-constrained environments
-- Multi-modal AI architectures that combine vision and language understanding
-- Open-source tools that make ML more accessible and reliable
-
-**Research Interests:**
-- Vision Transformers & Efficient Architectures
-- Prompt Engineering & LLM Fine-tuning
-- Edge AI & Model Optimization
-- Multi-Modal Learning Systems
-
----
+<div align="center">
 
 ## 🛠️ Tech Stack
 
-<details open>
-<summary><b>Machine Learning & AI</b></summary>
-<br/>
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-**Deep Learning Frameworks**
-```
-PyTorch • TensorFlow • Keras • ONNX Runtime
-```
+### AI/ML & Data Science
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Computer Vision**
-```
-OpenCV • YOLOv5/v8 • Detectron2 • Albumentations • PIL
-```
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**NLP & LLMs**
-```
-Transformers • LangChain • Rasa • spaCy • Sentence-BERT
-GPT-3.5/4 Integration • Custom Fine-tuning Pipelines
-```
-
-**ML Operations**
-```
-scikit-learn • XGBoost • LightGBM • Optuna • MLflow
-```
-
-</details>
-
-<details>
-<summary><b>Software Engineering</b></summary>
-<br/>
-
-**Languages**
-```python
-Python ████████████████░░░░  80%
-JavaScript/TypeScript ██████████████░░░░░░  70%
-C++ ████████████░░░░░░░░  60%
-SQL ██████████████░░░░░░  70%
-```
-
-**Backend & APIs**
-```
-Node.js • Express.js • FastAPI • REST • GraphQL
-```
-
-**Data Engineering**
-```
-NumPy • Pandas • Polars • Apache Spark • SQL (PostgreSQL)
-```
-
-**DevOps & Tools**
-```
-Docker • Git • Linux • CI/CD • Jupyter • VS Code
-```
-
-**Visualization**
-```
-Matplotlib • Plotly • Seaborn • Streamlit • Power BI
-```
-
-</details>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔮 AI Market Intelligence Platform
-> *Enterprise-grade market analysis powered by real-time data and LLM reasoning*
+<table>
+<tr>
+<td width="50%">
 
-A TypeScript-based platform that ingests market data from multiple sources, processes it through custom analytical pipelines, and generates strategic insights using GPT-4. Features include competitive intelligence tracking, trend forecasting, and automated report generation.
+### 🎓 [Owlet Study Companion](https://github.com/Faisalhakimi22/owlet-study-buddy)
+**Socratic AI mentor promoting academic integrity**
 
-**Tech Stack:** `TypeScript` `GPT-4 API` `Express.js` `PostgreSQL` `Node.js`
+`TypeScript` `React` `LangChain` `GPT-4`
 
-**Key Achievements:**
-- Real-time data aggregation from 15+ sources
-- Automated competitive analysis with 85% accuracy
-- Custom prompt engineering for domain-specific insights
-- RESTful API serving 1000+ requests/day
+Guides students through concepts using questions rather than answers, fostering deep understanding and critical thinking.
 
-[View Project →](https://github.com/Faisalhakimi22)
+</td>
+<td width="50%">
 
----
+### 📊 [Market Intelligence Platform](https://github.com/Faisalhakimi22/Market-Intelligence-Platform)
+**AI-powered market analysis for founders**
 
-### ♻️ Smart Waste Classification System
-> *Edge-optimized computer vision for real-time recyclable material identification*
+`TypeScript` `Node.js` `PostgreSQL` `GPT-4`
 
-A YOLOv5-based object detection system designed for edge deployment on Raspberry Pi. Achieves real-time inference with high accuracy for waste segregation applications, contributing to environmental sustainability through automated recycling.
+Analyzes market data, identifies opportunities, and tracks competitive landscapes with LLM-powered insights.
 
-**Tech Stack:** `Python` `YOLOv5` `OpenCV` `Streamlit` `Raspberry Pi` `ONNX`
+</td>
+</tr>
 
-**Key Achievements:**
-- **80.1% mAP@50** on custom waste dataset
-- **<10ms inference latency** on edge devices
-- Deployed Streamlit interface for live monitoring
-- Custom data augmentation pipeline with 5000+ labeled images
+<tr>
+<td width="50%">
 
-**Technical Highlights:**
-- Model quantization for 4x speedup
-- Custom training pipeline with transfer learning
-- Real-time video stream processing
+### 📈 [Bayesian Basket Trading](https://github.com/Faisalhakimi22/Improving-Basket-Trading-Using-Bayesian-Optimization)
+**Quantitative finance with ML optimization**
 
-[View Project →](https://github.com/Faisalhakimi22)
+`Python` `Bayesian Optimization` `Statistical Analysis`
 
----
+Improves cointegration-based trading using Bayesian optimization and advanced statistical methods.
 
-### 📡 Reconfigurable Intelligent Surface (RIS) Control System
-> *Simulation framework for next-generation wireless communication*
+</td>
+<td width="50%">
 
-A Python-based simulation and control interface for Reconfigurable Intelligent Surfaces in 6G networks. Implements algorithms for optimal phase shift configuration to maximize signal strength and minimize interference.
+### 🎨 [Pixelar - AI Game Assets](https://github.com/Faisalhakimi22/Pixelar---AI-Powered-2D-Game-Asset-Creation-Platform)
+**Generative AI for game development**
 
-**Tech Stack:** `Python` `NumPy` `Matplotlib` `Tkinter` `Signal Processing`
+`TypeScript` `React` `Stable Diffusion`
 
-**Key Achievements:**
-- Beamforming optimization with 30% signal improvement
-- Real-time visualization of signal propagation patterns
-- Supports multiple RIS configurations and scenarios
-- Published research findings on optimization algorithms
+Automated 2D game asset generation with style consistency and real-time customization.
 
-**Applications:** 6G Research • IoT Networks • Smart Cities
+</td>
+</tr>
 
-[View Project →](https://github.com/Faisalhakimi22/Market-Intelligence-Platform)
+<tr>
+<td width="50%">
 
----
+### 🤖 [Customer Support Chatbot](https://github.com/Faisalhakimi22/Automated-Customer-Support-Chatbot)
+**Enterprise conversational AI**
 
-### 🤖 Enterprise Conversational AI System
-> *Production-ready chatbot with dynamic intent recognition and GPT integration*
+`Python` `Rasa` `GPT-3.5` `LangChain`
 
-A hybrid NLU system combining Rasa's intent classification with GPT-3.5 for response generation. Features custom training pipelines, context management, and multi-turn conversation handling for enterprise customer support.
+85% accuracy • 40% faster responses • Handles 500+ daily conversations
 
-**Tech Stack:** `Rasa` `GPT-3.5` `LangChain` `Python` `FastAPI`
+</td>
+<td width="50%">
 
-**Key Achievements:**
-- **40% reduction** in average response time
-- **85% intent classification accuracy** on custom dataset
-- Multi-language support (English, Urdu)
-- Handles 500+ daily conversations with 90% user satisfaction
+### 🔍 [Provenance](https://github.com/Faisalhakimi22/Provenance)
+**Media literacy & misinformation detection**
 
-**Technical Highlights:**
-- Custom NLU pipeline with contextual embeddings
-- Fallback to GPT-3.5 for complex queries
-- Conversation state management and memory
+`JavaScript` `React` `Node.js`
 
-[View Project →](https://github.com/Faisalhakimi22)
+Platform helping users verify media authenticity and build digital literacy skills.
 
----
+</td>
+</tr>
 
-## 📊 GitHub Analytics
+<tr>
+<td width="50%">
+
+### ♻️ [WasteVision](https://github.com/Faisalhakimi22/wasteVision)
+**Smart waste classification system**
+
+`Python` `YOLOv5` `Raspberry Pi` `ONNX`
+
+80.1% mAP@50 • <10ms inference • Edge-optimized for automated recycling
+
+</td>
+<td width="50%">
+
+### 🎭 [Emotion Detection](https://github.com/Faisalhakimi22/WebCam-Face-Emotion-Detection)
+**Real-time facial emotion recognition**
+
+`Python` `OpenCV` `TensorFlow` `Streamlit`
+
+Live video emotion classification with web deployment for HCI research.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Faisalhakimi22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faisalhakimi22&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="49%" alt="Streak Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisalhakimi22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" width="49%" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faisalhakimi22&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="49%" alt="Activity Graph" />
+**[View All Repositories →](https://github.com/Faisalhakimi22?tab=repositories)**
 
 </div>
 
 ---
 
-## 🎯 Current Focus & Goals
+<div align="center">
 
-### Immediate Objectives (2024-2025)
+## 📊 GitHub Stats
 
-**🔬 Research & Development**
-- Secure research internship in Computer Vision or LLM applications
-- Contribute to open-source ML libraries (PyTorch, Transformers, LangChain)
-- Publish findings on efficient multi-modal architectures
+<img src="https://github-readme-stats.vercel.app/api?username=Faisalhakimi22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Faisalhakimi22&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="49%" alt="Streak Stats" />
 
-**🏗️ Technical Growth**
-- Master Reinforcement Learning fundamentals (PPO, DQN, A3C)
-- Deep dive into Vision Transformers and attention mechanisms
-- Build expertise in distributed training and model parallelism
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisalhakimi22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="49%" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faisalhakimi22&theme=tokyonight" width="49%" alt="Productive Time" />
 
-**📝 Knowledge Sharing**
-- Technical blog series on production ML best practices
-- Tutorial content on computer vision deployment
-- Case studies of real-world ML system design
+![](https://github-readme-activity-graph.vercel.app/graph?username=Faisalhakimi22&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9)
 
-### Long-term Vision
-
-**🌍 Impact-Driven Development**  
-Build AI systems that create measurable positive impact, focusing on accessibility, sustainability, and ethical deployment. My goal is to develop solutions that empower underserved communities and address pressing global challenges.
-
-**🧪 Research Contributions**  
-Advance the state-of-the-art in multi-modal AI, with particular focus on efficient architectures that bridge vision and language understanding. Contribute to making AI more interpretable, reliable, and accessible.
-
-**🤝 Community Building**  
-Foster an inclusive AI/ML community through mentorship, open-source contributions, and educational content. Help bridge the gap between academic research and practical implementation.
+</div>
 
 ---
 
-## 🤝 Let's Collaborate
+## 🎯 Current Focus
 
-I'm actively seeking opportunities in:
+```typescript
+const currentWork = {
+  research: ["Multi-modal AI", "Edge ML Optimization", "LLM Fine-tuning"],
+  building: ["Educational AI Tools", "Quantitative Finance Systems"],
+  contributing: ["OpenML Python", "Open-source ML Libraries"],
+  learning: ["Reinforcement Learning", "Vision Transformers", "MLOps"]
+};
+```
 
-- **Research Internships** - Computer Vision, LLMs, Multi-Modal AI
-- **ML Engineering Roles** - Production ML systems, MLOps, Model Deployment
-- **Open Source** - Contributing to impactful ML libraries and tools
-- **Research Collaborations** - Joint projects on vision/language understanding
-
-### 📬 Get in Touch
-
-**For professional inquiries:**  
-📧 [Faisalh5556@gmail.com](mailto:Faisalh5556@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/faisal-hakimi55)
-
-**For technical discussions:**  
-✍️ [Medium Blog](https://medium.com/@faisalh5556)  
-💻 [GitHub](https://github.com/Faisalhakimi22)
+**Looking for:** Research internships • ML Engineering roles • Open-source collaborations
 
 ---
 
 <div align="center">
 
-### 💭 Philosophy
+## 🤝 Let's Connect
 
-*"The best AI systems are those that amplify human capability rather than replace it. I build technology that empowers people to make better decisions, solve harder problems, and create meaningful impact."*
+**Open to discuss:** AI/ML architecture • Educational tech • Quantitative ML • Computer vision deployment
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faisal-hakimi55)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faisalh5556)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Faisalh5556@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faisalhakimi22)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Faisalhakimi22&color=58a6ff&style=flat&label=Profile+Views)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
-**⭐ If you find my work interesting, consider starring my repositories!**
+![Profile Views](https://komarev.com/ghpvc/?username=Faisalhakimi22&color=58a6ff&style=flat-square)
+
+**⭐ Building technology that empowers people to learn, decide, and create**
 
 </div>
