@@ -1,14 +1,31 @@
 # Faisal Hakimi
 
-**AI & Machine Learning Engineer** | Computer Vision • Large Language Models • ML Systems Design
+<h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Faisal+Hakimi;AI+%26+ML+Engineer" alt="Faisal Hakimi - AI & ML Engineer" />
+  </h1>
+  
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&height=30&lines=Computer+Vision+%7C+LLMs+%7C+ML+Systems;Data+Science+%7C+AI+Solutions+Architect;Turning+Data+into+Intelligent+Decisions" alt="Typing SVG" />
+    </a>
+  </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/faisal-hakimi55)
-[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=flat&logo=medium)](https://medium.com/@faisalh5556)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:Faisalh5556@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Faisalhakimi22&color=6C63FF&style=flat)](https://github.com/Faisalhakimi22)
-
----
-
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Faisalhakimi22&style=for-the-badge&color=6C63FF" alt="Profile Views" />
+    <a href="https://linkedin.com/in/faisal-hakimi55">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://medium.com/@faisalh5556">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="mailto:Faisalh5556@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Faisalhakimi22?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    </a>
+  </p>
+</div>
 ## About
 
 I'm an AI/ML engineer specializing in computer vision, large language models, and production ML systems. Currently pursuing Computer Science at IM|Sciences (CGPA: 3.61/4.0), I focus on building intelligent systems that solve real-world problems with measurable impact.
