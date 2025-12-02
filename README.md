@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=70&lines=Faisal+Hakimi+%7C+AI+Systems+Architect;Designing+Scalable+Inference+Engines;Bridging+Stochastic+Theory+and+Production;Quantitative+Analysis+%26+Computer+Vision" alt="Faisal Hakimi Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&height=80&lines=Faisal+Hakimi+%7C+AI+Systems+Architect;Designing+Scalable+Inference+Engines;Bridging+Stochastic+Theory+and+Production;Quantitative+Analysis+%26+Computer+Vision" alt="Faisal Hakimi Typing SVG" />
   </h1>
   
   <p>
